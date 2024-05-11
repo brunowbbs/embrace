@@ -1,0 +1,10 @@
+.container_app {
+  display: flex;
+  flex-direction: column;
+}
+
+.content_app {
+  max-width: 1200px;
+  align-self: center;
+  width: 100%;
+}

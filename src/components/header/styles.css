@@ -1,0 +1,15 @@
+.container_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container_header img {
+  width: 110px;
+}
+
+.container_header ul {
+  display: flex;
+  gap: 10px;
+  font-size: 0.875rem;
+}

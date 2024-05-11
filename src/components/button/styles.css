@@ -1,0 +1,13 @@
+.button_component {
+  background-color: #3461ff;
+  border-radius: 70px;
+  height: 35px;
+  color: #fff;
+  min-width: 100px;
+  cursor: pointer;
+  padding: 0 10px;
+}
+
+.button_component:hover {
+  background-color: #1d3fbd;
+}
